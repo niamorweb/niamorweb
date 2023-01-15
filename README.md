@@ -14,8 +14,6 @@ I am a web developer from France, I'm specialized in Front End.
 
 👯‍♀️ I'm looking to collaborate on a project to gain experience in the web development
 
-🌱 I’m currently learning Backend development
-
 💬 Ask me anything about web development
 
 🖥️ See My Portfolio: https://niamorweb.github.io/my-website/
