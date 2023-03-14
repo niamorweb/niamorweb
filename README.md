@@ -10,7 +10,7 @@ I am a web developer from France, I'm specialized in Front End.
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on front end part
 
-🧠 I'm currently learning Tailwind CSS and ReactJs
+🧠 I'm currently learning ReactJs
 
 👯‍♀️ I'm looking to collaborate on a project to gain experience in the web development
 
