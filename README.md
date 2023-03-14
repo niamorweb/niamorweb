@@ -16,9 +16,9 @@ I am a web developer from France, I'm specialized in Front End.
 
 💬 Ask me anything about web development
 
-🖥️ See My Portfolio: https://niamorweb.github.io/my-website/
+🖥️ See My Portfolio: https://niamorweb.github.io/portfolio/
 
-✉️ You can contact me at niamorpro@proton.me
+✉️ You can contact me at niamor.lth@gmail.com
 
 ## 🛠 Skills
 HTML, CSS/SCSS, JS, ReactJs, Tailwind CSS
